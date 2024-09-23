@@ -44,7 +44,7 @@ _Note: If you have created your Subnet using AvaCloud, you can add the Remote To
 
 ```bash
 ✔ Subnet-EVM
-✔ I don&#39;t want to use default values
+✔ I dont want to use default values
 ✔ Use latest release version
 Chain ID: 12345
 Token Symbol: USDC
